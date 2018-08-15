@@ -30,3 +30,15 @@ url_extractor.js
 ```
 3 parts of javascript code that extract from the google images using the google images api. This part is to be pasted in the console part of web page.
 ```
+
+Images
+
+```
+Dataset consist of santa and non santa
+```
+
+output
+
+```
+Images of console output at each stages of the work (for verification)
+```
