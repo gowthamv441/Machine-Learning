@@ -42,3 +42,12 @@ output
 ```
 Images of console output at each stages of the work (for verification)
 ```
+
+## Informations gained from this folder
+
+```
+* Use Google Images to search for example images.
+* Grab the image URLs via a small amount of JavaScript.
+* Download the images using Python and the requests library.
+
+```
